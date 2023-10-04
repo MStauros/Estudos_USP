@@ -2,7 +2,7 @@
 
 import numpy as np
 
-entrada_1 = input().split(" ")
+entrada_1 = map(int,input().split(" "))
 entrada_2 = input().split(" ")
 
 
